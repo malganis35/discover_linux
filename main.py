@@ -1,5 +1,5 @@
 def main():
-    print("Hello from discover-linux!")
+    print("Hello and Welcome to the Linux world of Astrodata!")
 
 
 if __name__ == "__main__":
